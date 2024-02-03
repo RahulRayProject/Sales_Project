@@ -4,8 +4,9 @@
 
 
 ## Retail Business Dashboard
-
-A Real Time Project with problem statements based on Business / Functional Requirement Document. 
+ I have selected this sales insight analysis to work on. For this analysis I will perform the real-world tasks of a junior data analyst for the sales analysis at UXZ .
+ ## Background :
+ UXZ is a hardware company, which supplies peripherals to different clients and has many branches in different countries like Czech , Denmark , Germany. It has more than 50 thousands customers.
 ## PROBLEM STATEMENT
 
  ### Task 1
